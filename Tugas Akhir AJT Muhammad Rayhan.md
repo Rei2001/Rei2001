@@ -2,7 +2,13 @@
 ### 195150307111001
 ### Tugas Akhir Arsitektur Jaringan Terkini
 ##### Tugas 1
-![Screenshot 2022-03-10 104022](https://user-images.githubusercontent.com/106861540/172378564-e0aba0a0-7bb6-4563-8b24-130403faee21.png)
+![Screenshot 2022-06-08 185533](https://user-images.githubusercontent.com/106861540/172610595-384ae730-a3dd-4444-bcf3-0cd568d47b31.png)
+
+![Screenshot 2022-06-08 185601](https://user-images.githubusercontent.com/106861540/172610611-751be0b0-e971-4b3b-a524-0f53d0e6141d.png)
+
+![Screenshot 2022-06-08 185625](https://user-images.githubusercontent.com/106861540/172610637-a990871d-6b85-4436-b759-0988603ea625.png)
+
+![Screenshot 2022-03-10 104022 (1)](https://user-images.githubusercontent.com/106861540/172611039-7e08deb3-ea2b-4b56-a172-98bbdc1327e6.png)
 
 Di tugas 1 ini, saya diajarkan untuk membuat sebuah 1 instance EC2 di AWS Console.
 dengan spesifikasi Instance Type: t2.medium, AMI : Ubuntu Server 22.04 LTS 64 Bit, allow SSH, allow HTTP, allow HTTPS, Security Group dibuka untuk TCP Port 8081 dan 8080,
@@ -33,6 +39,7 @@ Terminal 1
 ![image](https://user-images.githubusercontent.com/106861540/172382893-db7a0452-5235-4af0-9ea2-d11a17bc8624.png)
 
 Terminal 2
+
 ![image](https://user-images.githubusercontent.com/106861540/172383366-ae3b6dd6-0e43-42fa-902d-2ed1bde7b811.png)
 
 di tugas kali ini, kita diajarkan pengaplikasian SPF Routing, SPF adalah algoritma perutean di mana router menghitung jalur terpendek antara setiap pasangan node dalam jaringan. Protokol Open Shortest Path First (OSPF) didasarkan pada algoritma Shortest Path First (SPF).
